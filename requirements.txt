@@ -1,0 +1,19 @@
+python-telegram-bot==20.7
+```
+
+6. **点击 "Commit changes..."**
+
+7. **再次点击 "Commit changes"** 确认
+
+---
+
+## 📝 创建第3个文件：runtime.txt
+
+重复上面的步骤：
+
+1. 返回仓库主页
+2. "Add file" → "Create new file"
+3. 文件名：`runtime.txt`
+4. 内容：
+```
+python-3.11.0
